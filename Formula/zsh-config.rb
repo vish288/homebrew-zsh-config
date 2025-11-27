@@ -1,8 +1,8 @@
 class ZshConfig < Formula
   desc "Professional ZSH configuration with modular structure and lazy-loading secrets"
   homepage "https://github.com/vish288/zsh-config"
-  url "https://github.com/vish288/zsh-config/archive/refs/tags/v1.5.1.tar.gz"
-  sha256 "bed9ea1b57e73f250f0345fa04446aed64070b2bca9c42f35ede020247737cfe"
+  url "https://github.com/vish288/zsh-config/archive/refs/tags/v1.6.0.tar.gz"
+  sha256 "94644d7f9e71a4eefc17901080940e80498480863a0a7ffe876d43e2d4400ddd"
   license "MIT"
   head "https://github.com/vish288/zsh-config.git", branch: "main"
 
